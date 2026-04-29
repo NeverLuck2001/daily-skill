@@ -1,0 +1,28 @@
+{
+  "blocked_keywords": [
+    "token stealer",
+    "cookie stealer",
+    "password stealer",
+    "malware",
+    "ransomware",
+    "phishing",
+    "credential dump",
+    "bypass license",
+    "keygen",
+    "crack",
+    "wallet stealer",
+    "crypto drainer",
+    "browser cookie stealer",
+    "mass account creator"
+  ],
+  "risky_install_patterns": [
+    "curl | bash",
+    "wget | sh",
+    "iwr | iex",
+    "Invoke-Expression",
+    "powershell -EncodedCommand",
+    "disable antivirus",
+    "turn off defender",
+    "disable windows defender"
+  ]
+}

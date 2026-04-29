@@ -1,0 +1,304 @@
+{
+  "all": {
+    "description": "综合推荐",
+    "topics": [
+      "productivity",
+      "automation",
+      "developer-tools"
+    ],
+    "keywords": [
+      "productivity tool",
+      "desktop enhancement"
+    ],
+    "preferred_languages": []
+  },
+  "ai": {
+    "description": "AI/LLM/Agent",
+    "topics": [
+      "llm",
+      "agent",
+      "rag",
+      "ai",
+      "machine-learning",
+      "inference"
+    ],
+    "keywords": [
+      "large language model",
+      "agent",
+      "rag"
+    ],
+    "preferred_languages": [
+      "Python",
+      "TypeScript",
+      "Rust",
+      "Go"
+    ]
+  },
+  "devtools": {
+    "description": "开发工具",
+    "topics": [
+      "developer-tools",
+      "cli",
+      "vscode",
+      "debugging"
+    ],
+    "keywords": [
+      "developer productivity",
+      "terminal tool"
+    ],
+    "preferred_languages": [
+      "Rust",
+      "Go",
+      "Python",
+      "TypeScript"
+    ]
+  },
+  "productivity": {
+    "description": "生产力",
+    "topics": [
+      "productivity",
+      "automation",
+      "workflow",
+      "clipboard",
+      "launcher",
+      "todo"
+    ],
+    "keywords": [
+      "productivity tool",
+      "workflow automation",
+      "clipboard manager"
+    ],
+    "preferred_languages": [
+      "Python",
+      "TypeScript",
+      "Rust",
+      "Go",
+      "PowerShell",
+      "AutoHotkey"
+    ]
+  },
+  "windows": {
+    "description": "Windows 工具",
+    "topics": [
+      "windows",
+      "powershell",
+      "autohotkey",
+      "desktop",
+      "utility"
+    ],
+    "keywords": [
+      "windows automation",
+      "desktop enhancement",
+      "window manager"
+    ],
+    "preferred_languages": [
+      "C#",
+      "C++",
+      "PowerShell",
+      "AutoHotkey",
+      "Rust",
+      "Python"
+    ]
+  },
+  "browser": {
+    "description": "浏览器增强",
+    "topics": [
+      "browser-extension",
+      "chrome-extension",
+      "webextension",
+      "tab-manager",
+      "bookmark-manager"
+    ],
+    "keywords": [
+      "browser productivity",
+      "tab manager",
+      "bookmark manager"
+    ],
+    "preferred_languages": [
+      "TypeScript",
+      "JavaScript"
+    ]
+  },
+  "file_management": {
+    "description": "文件管理",
+    "topics": [
+      "file-manager",
+      "backup",
+      "sync",
+      "duplicate-files",
+      "rename"
+    ],
+    "keywords": [
+      "file organizer",
+      "bulk rename",
+      "duplicate files"
+    ],
+    "preferred_languages": [
+      "Python",
+      "Rust",
+      "Go",
+      "C#"
+    ]
+  },
+  "media": {
+    "description": "媒体工具",
+    "topics": [
+      "image-processing",
+      "video-processing",
+      "screenshot",
+      "screen-recorder"
+    ],
+    "keywords": [
+      "subtitle tool",
+      "media converter"
+    ],
+    "preferred_languages": [
+      "Python",
+      "C++",
+      "Rust"
+    ]
+  },
+  "knowledge": {
+    "description": "知识管理",
+    "topics": [
+      "markdown",
+      "notes",
+      "knowledge-management",
+      "pkm"
+    ],
+    "keywords": [
+      "personal knowledge management",
+      "note taking"
+    ],
+    "preferred_languages": [
+      "TypeScript",
+      "Python"
+    ]
+  },
+  "automation": {
+    "description": "自动化",
+    "topics": [
+      "automation",
+      "workflow",
+      "powershell",
+      "autohotkey"
+    ],
+    "keywords": [
+      "desktop automation",
+      "task automation"
+    ],
+    "preferred_languages": [
+      "Python",
+      "PowerShell",
+      "AutoHotkey"
+    ]
+  },
+  "selfhosted": {
+    "description": "自部署",
+    "topics": [
+      "self-hosted",
+      "homelab",
+      "nas",
+      "personal-cloud"
+    ],
+    "keywords": [
+      "self hosted",
+      "homelab"
+    ],
+    "preferred_languages": [
+      "Go",
+      "Rust",
+      "Python"
+    ]
+  },
+  "security": {
+    "description": "防御安全",
+    "topics": [
+      "security",
+      "privacy",
+      "audit",
+      "hardening",
+      "password-manager"
+    ],
+    "keywords": [
+      "security audit",
+      "privacy tool",
+      "defensive security"
+    ],
+    "preferred_languages": [
+      "Rust",
+      "Go",
+      "Python"
+    ]
+  },
+  "daily_life": {
+    "description": "日常生活",
+    "topics": [
+      "habit-tracker",
+      "personal-finance",
+      "calendar",
+      "todo",
+      "recipe",
+      "health"
+    ],
+    "keywords": [
+      "life tracker",
+      "personal dashboard",
+      "habit tracker"
+    ],
+    "preferred_languages": [
+      "TypeScript",
+      "Python",
+      "JavaScript"
+    ]
+  },
+  "interesting": {
+    "description": "有趣项目",
+    "topics": [
+      "visualization",
+      "interactive",
+      "toy-project"
+    ],
+    "keywords": [
+      "creative coding",
+      "interactive tool"
+    ],
+    "preferred_languages": [
+      "TypeScript",
+      "Python",
+      "Rust"
+    ]
+  },
+  "python": {
+    "description": "Python 工具",
+    "topics": [
+      "python",
+      "automation",
+      "cli"
+    ],
+    "keywords": [
+      "python utility",
+      "python automation"
+    ],
+    "preferred_languages": [
+      "Python"
+    ]
+  },
+  "ml": {
+    "description": "机器学习",
+    "topics": [
+      "machine-learning",
+      "deep-learning",
+      "inference"
+    ],
+    "keywords": [
+      "model training",
+      "inference optimization"
+    ],
+    "preferred_languages": [
+      "Python",
+      "C++",
+      "Rust"
+    ]
+  }
+}
