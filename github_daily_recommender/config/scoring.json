@@ -1,0 +1,21 @@
+{
+  "weights": {
+    "log_stars": 0.25,
+    "stars_per_day": 0.2,
+    "recency": 0.15,
+    "topic_match": 0.15,
+    "readme_quality": 0.1,
+    "license": 0.05,
+    "usability": 0.05,
+    "description": 0.05
+  },
+  "penalties": {
+    "archived": -1.0,
+    "fork": -0.3,
+    "missing_description": -0.1,
+    "missing_readme": -0.1,
+    "dangerous_install": -0.5,
+    "requires_sensitive_permissions": -0.4,
+    "high_risk": -1.0
+  }
+}
